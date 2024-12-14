@@ -1,0 +1,6 @@
+first = int(input("Enter a first number: "))
+second = int(input("Enter a second number: "))
+print(f"the sum of your first and second number is {first + second} ")
+print(f"the difference of your first and second number is {first - second}")
+print(f"the product of your first and second nunmber is {first * second} ")
+print(f"the qoutient of your first and second nunmber is {first / second} ")
